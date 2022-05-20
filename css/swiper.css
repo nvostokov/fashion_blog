@@ -1,0 +1,48 @@
+.swiper {
+  margin-top: 100px;
+  max-width: 1920px;
+  position: relative;
+  margin-bottom: 59px;
+  min-width: 1200px; }
+  .swiper__object {
+    position: absolute;
+    top: 490px;
+    z-index: 20;
+    color: #FFFFFF;
+    max-width: 560px;
+    text-shadow: 0px 0px 1px black; }
+  .swiper__title {
+    font-family: 'PT Sans';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0px;
+    text-align: left;
+    text-transform: uppercase;
+    margin-bottom: 4px; }
+  .swiper__subtitle {
+    font-family: 'PT Serif';
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0px;
+    text-align: left;
+    margin-bottom: 10px; }
+  .swiper__txt {
+    font-family: 'PT Serif';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: left;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex; }
+  .swiper__txt p + * {
+    margin-left: 15px; }
+  .swiper__txt span {
+    color: #d2d2d2; }
+
+.swiper-wrapper {
+  width: 100%; }
+/*# sourceMappingURL=swiper.css.map */

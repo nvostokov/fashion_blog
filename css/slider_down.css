@@ -1,0 +1,18 @@
+.image-slider02 {
+  cursor: pointer; }
+  .image-slider02__title {
+    font-family: 'PT Serif';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: center;
+    margin-bottom: 39px; }
+  .image-slider02__title a {
+    text-decoration: none;
+    color: #171717;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s; }
+  .image-slider02__title a:hover {
+    opacity: 0.7; }
+/*# sourceMappingURL=slider_down.css.map */
